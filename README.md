@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github link](https://github.com/Mrozv/mrozv-ecc.github.io)
-- Live Site URL: [Github pages](https://mrozv.github.io/mrozv-ecc.github.io/)
+- Solution URL: [Github link](https://github.com/Mrozv/expensesChartComponent)
+- Live Site URL: [Github pages](https://mrozv.github.io/expensesChartComponent/)
 
 ## My process
 
